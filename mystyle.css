@@ -9,6 +9,11 @@ img {
     height: auto;
 }
 
+img:hover {
+    filter: brightness(50%);
+}
+
+
 
 header {
   background-color: #006432; /* Green */
