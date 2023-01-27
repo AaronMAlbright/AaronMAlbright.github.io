@@ -4,6 +4,12 @@ body {
   padding: 0;
 }
 
+img {
+    width: 100%;
+    height: auto;
+}
+
+
 header {
   background-color: #006432; /* Green */
   color: #fff;
